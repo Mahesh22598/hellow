@@ -6,6 +6,8 @@ System.out.println("Hello Riya");
   System.out.println("Hello mahesh");
    System.out.println("Hello king22");
    System.out.println("Hello kingini");
+  System.out.println("Hello mahi");
+  
 
 }
 }
